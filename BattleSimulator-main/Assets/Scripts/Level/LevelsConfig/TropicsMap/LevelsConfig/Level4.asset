@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe51c0b9382e8234789666b1de985047, type: 3}
+  m_Name: Level4
+  m_EditorClassIdentifier: 
+  _number: 4
+  _levelMoney: 1000
+  _moneyReward: 340
+  _maxSpawnUnitCount: 10
+  _unitsConfig:
+  - {fileID: 11400000, guid: 08d3ad4f6cdd92442988d35dc3b34a3c, type: 2}
+  - {fileID: 11400000, guid: fea7978d4c58ba142b10d5284a798d0f, type: 2}
+  - {fileID: 11400000, guid: c2e07ce1de8122945a5ef3e841e81eb8, type: 2}
+  - {fileID: 11400000, guid: 8fb75d61bd1f7ba4899d521d9163e22f, type: 2}
